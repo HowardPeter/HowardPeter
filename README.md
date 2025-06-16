@@ -10,8 +10,9 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
 
 <a href="https://github.com/HowardPeter/book-management-flask/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical" />
 </a>
+
 <a href="https://github.com/HowardPeter/med-reminder-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=med-reminder-app&theme=merko" />
