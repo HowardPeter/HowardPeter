@@ -2,7 +2,7 @@
 My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I am instested in automation, deployment and configuration in software projects <br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-thien) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HowardPeter)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-thien)
 
 
 
@@ -10,7 +10,7 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
 
 <a href="https://github.com/HowardPeter/book-management-flask/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical" />
 </a>
 <a href="https://github.com/HowardPeter/med-reminder-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -19,10 +19,10 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
 
 <a href="https://github.com/HowardPeter/Alzheimer_Diagnosis_CNN_Model/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HowardPeter&repo=Alzheimer_Diagnosis_CNN_Model&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Alzheimer_Diagnosis_CNN_Model&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/HowardPeter/obmnl-flask_assignment/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HowardPeter&repo=obmnl-flask_assignment&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=obmnl-flask_assignment&theme=dark" />
 </a>
