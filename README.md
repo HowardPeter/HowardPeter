@@ -27,3 +27,8 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=obmnl-flask_assignment&theme=dark&cache_seconds=60" />
 </a>
+
+<a href="https://github.com/HowardPeter/E-commerce-android/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=obmnl-flask_assignment&theme=onedark&cache_seconds=60" />
+</a>
