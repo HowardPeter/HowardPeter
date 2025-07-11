@@ -6,7 +6,7 @@ My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University. I a
 
 
 
-![Phuoc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<!-- ![Phuoc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
 <a href="https://github.com/HowardPeter/book-management-flask/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
