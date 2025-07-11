@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I am instested in automation, deployment and configuration in software projects <br>
+My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University. I am instested in automation, deployment and configuration in software projects <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-thien)
@@ -18,6 +18,11 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=med-reminder-app&theme=merko&cache_seconds=60" />
 </a>
 
+<a href="https://github.com/HowardPeter/weather-forecast-bash">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Weather-forecast-bash&theme=cobalt&cache_seconds=60" />
+</a>
+
 <a href="https://github.com/HowardPeter/Alzheimer_Diagnosis_CNN_Model/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Alzheimer_Diagnosis_CNN_Model&theme=gruvbox&cache_seconds=60" />
@@ -31,9 +36,4 @@ My name is Nguyen Thien Phuoc. I am a DevOps learners at Van Lang University. I 
 <a href="https://github.com/HowardPeter/E-commerce-android/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=E-commerce-android&theme=onedark&cache_seconds=60" />
-</a>
-
-<a href="https://github.com/HowardPeter/weather-forecast-bash">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Weather-forecast-bash&theme=cobalt&cache_seconds=60" />
 </a>
