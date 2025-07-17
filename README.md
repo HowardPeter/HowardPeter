@@ -2,13 +2,11 @@
 My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and interested in automation, deployment and configuration in software projects <br>
 ## 📫 How to reach me: 
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-
 
 <!-- ![Phuoc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
@@ -41,7 +39,7 @@ My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and
 
 ###
 
-<h3 align="left">📝 Some of my works</h3>
+<h3 align="left">🚀 Some of my works</h3>
 
 ###
 
