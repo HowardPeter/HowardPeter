@@ -2,7 +2,11 @@
 My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and interested in automation, deployment and configuration in software projects <br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-thien)
+<div align="center">
+  <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 
