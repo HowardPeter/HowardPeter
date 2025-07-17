@@ -37,6 +37,10 @@ My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and
 
 ###
 
+<h3 align="left">📝 Some of my works</h3>
+
+###
+
 <a href="https://github.com/HowardPeter/book-management-flask/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical&cache_seconds=60" />
@@ -66,3 +70,5 @@ My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=E-commerce-android&theme=onedark&cache_seconds=60" />
 </a>
+
+###
