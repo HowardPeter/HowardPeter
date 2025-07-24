@@ -55,7 +55,7 @@ My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and
 
 <a href="https://github.com/HowardPeter/weather-forecast-bash">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Weather-forecast-bash&theme=cobalt&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=weather-forecast-bash&theme=cobalt&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/HowardPeter/Alzheimer_Diagnosis_CNN_Model/">
