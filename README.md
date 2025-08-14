@@ -1,5 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Thien Phuoc. I am a DevOps learner at Van Lang University, and interested in automation, deployment and configuration in software projects <br>
+<h1 align="left">WELCOME TO MY PAGE 👋</h1>
+
 ## 📫 How to reach me: 
 
 <div align="left">
