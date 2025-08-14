@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME TO MY PAGE 👋</h1>
 I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br>
 
-# 📫 How to reach me: 
+<h3 align="left">📫 How to reach me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="_blank">
@@ -11,7 +11,7 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
 
 <!-- ![Phuoc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
-## 🛠 Language and tools
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -40,7 +40,7 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
 
 ###
 
-## 🚀 Some of my works
+<h3 align="left">🚀 Some of my works</h3>
 
 ###
 
