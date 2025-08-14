@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME TO MY PAGE 👋</h1>
+<h2 align="left">WELCOME TO MY PAGE 👋</h2>
 I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br>
 
 <h3 align="left">📫 How to reach me</h3>
