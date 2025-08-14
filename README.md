@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME TO MY PAGE 👋</h1>
 I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br>
 
-## 📫 How to reach me: 
+# 📫 How to reach me: 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="_blank">
