@@ -49,14 +49,19 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/HowardPeter/med-reminder-app/">
+<a href="https://github.com/HowardPeter/classroom-management-nodejs/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=med-reminder-app&theme=merko&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=classroom-management&theme=synthwave&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/HowardPeter/weather-forecast-bash">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=weather-forecast-bash&theme=cobalt&cache_seconds=60" />
+</a>
+
+<a href="https://github.com/HowardPeter/med-reminder-app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=med-reminder-app&theme=merko&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/HowardPeter/E-commerce-android/">
