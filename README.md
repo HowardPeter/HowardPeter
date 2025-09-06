@@ -44,6 +44,7 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
 
 ###
 
+<!-- Themes: gruvbox, radical, merko, dark, onedark, cobalt, synthwave, highcontrast, dracula -->>
 <a href="https://github.com/HowardPeter/book-management-flask/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=book-management-flask&theme=radical&cache_seconds=60" />
