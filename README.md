@@ -1,6 +1,8 @@
 <h2 align="left">WELCOME TO MY PAGE 👋</h2>
 I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br>
 
+![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,issues)
+
 <h3 align="left">📫 How to reach me</h3>
 
 <div align="left">
@@ -8,8 +10,6 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
-![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,issues)
 
 <h3 align="left">🛠 Language and tools</h3>
 
