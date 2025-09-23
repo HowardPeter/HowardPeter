@@ -9,7 +9,7 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
   </a>
 </div>
 
-![Phuoc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,issues)
 
 <h3 align="left">🛠 Language and tools</h3>
 
