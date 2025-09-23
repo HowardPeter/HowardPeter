@@ -94,6 +94,6 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
 
 ###
 
-![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=stars,contribs,issues)
+![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,stars,issues)
 
 ###
