@@ -1,8 +1,6 @@
 <h2 align="left">WELCOME TO MY PAGE 👋</h2>
 I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br>
 
-![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,issues)
-
 <h3 align="left">📫 How to reach me</h3>
 
 <div align="left">
@@ -89,5 +87,13 @@ I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HowardPeter&repo=Alzheimer_Diagnosis_CNN_Model&theme=gruvbox&cache_seconds=60" />
 </a>
+
+###
+
+<h3 align="left">🔥 My stats</h3>
+
+###
+
+![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,issues)
 
 ###
