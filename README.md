@@ -85,10 +85,10 @@
 
 ###
 
-<h3 align="left">🔥 My stats</h3>
+<!-- <h3 align="left">🔥 My stats</h3>
 
 ###
 
 ![Phuoc's github stats](https://github-readme-stats.vercel.app/api?username=HowardPeter&show_icons=true&theme=tokyonight&hide=contribs,stars,issues)
 
-###
+### -->
