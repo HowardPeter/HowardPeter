@@ -1,13 +1,13 @@
 <h2 align="left">WELCOME TO MY PAGE 👋</h2>
 <!-- I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br> -->
 
-<h3 align="left">📫 How to reach me</h3>
+<!-- <h3 align="left">📫 How to reach me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-</div>
+</div> -->
 
 <h3 align="left">🛠 Language and tools</h3>
 
