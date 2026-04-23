@@ -1,27 +1,27 @@
 <h2 align="left">WELCOME TO MY PAGE 👋</h2>
-<!-- I'm Nguyen Thien Phuoc, a 4th-year student at Van Lang University. I'm a DevOps learner, and interested in automation, deployment and configuration in software projects <br> -->
+I'm Nguyen Thien Phuoc, a DevOps learner at Van Lang University. I'm interested in automation, deployment and configuration in software projects <br>
 
-<!-- <h3 align="left">📫 How to reach me</h3>
+<h3 align="left">📫 How to reach me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-</div> -->
+</div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 My languages and tools</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" title="Node.js"  />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" title="Bash"  />
-  <img width="12" />
   
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python"  />
-<img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="Typescript"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="githubactions logo" title="GitHub Actions"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" title="Docker"  />
   <img width="12" />
@@ -31,27 +31,27 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" title="Bash"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" title="AWS"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" title="Redis"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" title="MongoDB"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" title="MongoDB"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="Postgresql"  />
-  <img width="12" />
+  <img width="12" /> -->
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg" height="40" alt="prisma logo" title="Prisma"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="amazonwebservices logo" title="Terraform"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" title="Terraform"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" title="Jira" />
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" title="Redis"  />
+  <img width="12" />
 </div>
 
 ###
