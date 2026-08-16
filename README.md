@@ -61,3 +61,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma" title="Prisma" />
 </div>
+
+<h4 align="left">🧩 Others</h4>
+
+<p align="left">
+  Networking & Security · Scrum / Agile · SDLC
+</p>
