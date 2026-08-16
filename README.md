@@ -9,58 +9,55 @@
 <h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/phuoc-nguyen-thien/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" title="LinkedIn" />
   </a>
 </div>
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+<h3 align="left">🛠️ Skill Stack</h3>
 
 <h4 align="left">💻 Languages & Runtime</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"
-    alt="typescript logo" title="TypeScript" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"
-    alt="bash logo" title="Bash" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40"
-    alt="nodejs logo" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"
-    alt="prisma logo" title="Prisma" /> <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" title="Bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />
 </div>
 
 <h4 align="left">🚀 DevOps & Containers</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"
-    alt="github actions logo" title="GitHub Actions" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-    height="40" alt="docker logo" title="Docker" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"
-    alt="linux logo" title="Linux" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-    height="40" alt="kubernetes logo" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions" title="GitHub Actions" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes" title="Kubernetes" />
 </div>
 
 <h4 align="left">☁️ Cloud & Infrastructure</h4>
 
 <div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    height="40" alt="aws logo" title="AWS" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-    height="40" alt="terraform logo" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="45" alt="AWS" title="AWS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="45" alt="Terraform" title="Terraform" />
 </div>
 
-<h4 align="left">🗄️ Databases & Caching</h4>
+<h4 align="left">🗄️ Databases & ORM</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
-    alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-    height="40" alt="mongodb logo" title="MongoDB" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"
-    title="Redis" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" title="Redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma" title="Prisma" />
 </div>
