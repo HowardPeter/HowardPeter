@@ -40,6 +40,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes" title="Kubernetes" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="45" alt="Prometheus" title="Prometheus" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="45" alt="Grafana" title="Grafana" />
 </div>
 
 <h4 align="left">☁️ Cloud & Infrastructure</h4>
@@ -60,6 +64,8 @@
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" title="Redis" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma" title="Prisma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" title="Supabase" />
 </div>
 
 <h4 align="left">🧩 Others</h4>
