@@ -19,11 +19,14 @@
 <h4 align="left">💻 Languages & Runtime</h4>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" title="Bash" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />
 </div>
 
 <h4 align="left">🚀 DevOps & Containers</h4>
